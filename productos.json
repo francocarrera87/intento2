@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1706570431755",
+    "title": "Producto de Prueba",
+    "description": "Descripción del producto",
+    "code": "ABC123",
+    "price": 29.99,
+    "status": true,
+    "stock": 100,
+    "category": "Electrónicos",
+    "thumbnails": []
+  },
+  {
+    "id": "1706570453657",
+    "title": "Producto de Prueba",
+    "description": "Descripción del producto",
+    "code": "ABC123",
+    "price": 29.99,
+    "status": true,
+    "stock": 100,
+    "category": "Electrónicos",
+    "thumbnails": []
+  },
+  {
+    "id": "1706640703580",
+    "price": 59.99,
+    "stock": 60,
+    "title": "Nuevo Producto carritoodsdsdso",
+    "description": "carritooooo",
+    "code": "ABC456",
+    "status": true,
+    "category": "papel",
+    "thumbnails": [
+      "imagen3.jpg",
+      "imagen4.jpg"
+    ]
+  },
+  {
+    "id": "1706643009810",
+    "title": "Nuevo Producto",
+    "description": "Descripción del nuevo producto",
+    "code": "ABC456",
+    "price": 49.99,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónicosssssssssssssssssssssssssssssssssssssss",
+    "thumbnails": [
+      "imagen3.jpg",
+      "imagen4.jpg"
+    ]
+  }
+]
